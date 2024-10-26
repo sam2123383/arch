@@ -1,0 +1,57 @@
+[2024-10-24 09:57:04.173] [info]  { enabled: null, showDevTools: false, mode: 'bottom' }
+[2024-10-24 09:57:04.496] [info]  Saving backups to /home/himanshu/.config/superProductivity/backups
+[2024-10-24 09:57:06.803] [info]  No custom styles detected at /home/himanshu/.config/superProductivity/styles.css
+[2024-10-24 09:57:07.251] [info]  Error: Global Shortcut registration failed: Ctrl+Shift+X
+    at errorHandlerWithFrontendInform (/usr/lib/superproductivity/app.asar/electron/error-handler-with-frontend-inform.js:10:18)
+    at /usr/lib/superproductivity/app.asar/electron/ipc-handler.js:181:101
+    at Array.forEach (<anonymous>)
+    at registerShowAppShortCuts (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:140:18)
+    at IpcMainImpl.<anonymous> (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:110:9)
+    at IpcMainImpl.emit (node:events:519:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:519:28)
+[2024-10-24 09:57:07.251] [error] Global Shortcut registration failed: Ctrl+Shift+X Error: Global Shortcut registration failed: Ctrl+Shift+X
+    at errorHandlerWithFrontendInform (/usr/lib/superproductivity/app.asar/electron/error-handler-with-frontend-inform.js:10:18)
+    at /usr/lib/superproductivity/app.asar/electron/ipc-handler.js:181:101
+    at Array.forEach (<anonymous>)
+    at registerShowAppShortCuts (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:140:18)
+    at IpcMainImpl.<anonymous> (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:110:9)
+    at IpcMainImpl.emit (node:events:519:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:519:28)
+[2024-10-24 09:57:07.252] [info]  Additional Error info:  Ctrl+Shift+X
+[2024-10-24 20:37:29.787] [info]  close, isQuiting: undefined
+[2024-10-24 20:37:30.075] [info]  Actions to wait for  [ 'FINISH_DAY_BEFORE_CLOSE_EFFECT' ]
+[2024-10-24 20:37:40.505] [info]  BEFORE_CLOSE_DONE FINISH_DAY_BEFORE_CLOSE_EFFECT []
+[2024-10-24 20:37:40.506] [info]  close, isQuiting: undefined
+[2024-10-24 20:37:40.522] [info]  close, isQuiting: true
+[2024-10-24 20:37:40.863] [info]  Quit after all windows being closed
+[2024-10-24 20:37:41.003] [info]  Quit after process exit
+[2024-10-25 09:09:08.670] [info]  { enabled: null, showDevTools: false, mode: 'bottom' }
+[2024-10-25 09:09:09.472] [info]  Saving backups to /home/himanshu/.config/superProductivity/backups
+[2024-10-25 09:09:13.104] [info]  No custom styles detected at /home/himanshu/.config/superProductivity/styles.css
+[2024-10-25 09:09:13.268] [info]  Error: Global Shortcut registration failed: Ctrl+Shift+X
+    at errorHandlerWithFrontendInform (/usr/lib/superproductivity/app.asar/electron/error-handler-with-frontend-inform.js:10:18)
+    at /usr/lib/superproductivity/app.asar/electron/ipc-handler.js:181:101
+    at Array.forEach (<anonymous>)
+    at registerShowAppShortCuts (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:140:18)
+    at IpcMainImpl.<anonymous> (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:110:9)
+    at IpcMainImpl.emit (node:events:519:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:519:28)
+[2024-10-25 09:09:13.269] [error] Global Shortcut registration failed: Ctrl+Shift+X Error: Global Shortcut registration failed: Ctrl+Shift+X
+    at errorHandlerWithFrontendInform (/usr/lib/superproductivity/app.asar/electron/error-handler-with-frontend-inform.js:10:18)
+    at /usr/lib/superproductivity/app.asar/electron/ipc-handler.js:181:101
+    at Array.forEach (<anonymous>)
+    at registerShowAppShortCuts (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:140:18)
+    at IpcMainImpl.<anonymous> (/usr/lib/superproductivity/app.asar/electron/ipc-handler.js:110:9)
+    at IpcMainImpl.emit (node:events:519:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:519:28)
+[2024-10-25 09:09:13.269] [info]  Additional Error info:  Ctrl+Shift+X
+[2024-10-25 20:26:41.912] [info]  close, isQuiting: undefined
+[2024-10-25 20:26:42.010] [info]  Actions to wait for  [ 'FINISH_DAY_BEFORE_CLOSE_EFFECT' ]
+[2024-10-25 20:26:45.756] [info]  BEFORE_CLOSE_DONE FINISH_DAY_BEFORE_CLOSE_EFFECT []
+[2024-10-25 20:26:45.758] [info]  close, isQuiting: undefined
+[2024-10-25 20:26:45.768] [info]  close, isQuiting: true
+[2024-10-25 20:26:45.780] [info]  Quit after all windows being closed

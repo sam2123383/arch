@@ -1,0 +1,29 @@
+2024/10/24-09:57:04.457 310f Creating DB /home/himanshu/.config/superProductivity/Local Storage/leveldb since it was missing.
+2024/10/24-09:57:04.605 310f Reusing MANIFEST /home/himanshu/.config/superProductivity/Local Storage/leveldb/MANIFEST-000001
+2024/10/24-10:45:06.747 3110 Level-0 table #5: started
+2024/10/24-10:45:06.796 3110 Level-0 table #5: 12101 bytes OK
+2024/10/24-10:45:06.847 3110 Delete type=0 #3
+2024/10/24-11:32:06.747 3110 Level-0 table #7: started
+2024/10/24-11:32:06.805 3110 Level-0 table #7: 10601 bytes OK
+2024/10/24-11:32:06.856 3110 Delete type=0 #4
+2024/10/24-12:19:06.746 3110 Level-0 table #9: started
+2024/10/24-12:19:06.782 3110 Level-0 table #9: 10797 bytes OK
+2024/10/24-12:19:06.834 3110 Delete type=0 #6
+2024/10/24-17:30:25.974 310f Level-0 table #11: started
+2024/10/24-17:30:26.028 310f Level-0 table #11: 10706 bytes OK
+2024/10/24-17:30:26.080 310f Delete type=0 #8
+2024/10/24-18:07:06.126 3110 Level-0 table #13: started
+2024/10/24-18:07:06.168 3110 Level-0 table #13: 11358 bytes OK
+2024/10/24-18:07:06.219 3110 Delete type=0 #10
+2024/10/24-20:37:12.824 3110 Level-0 table #15: started
+2024/10/24-20:37:13.051 3110 Level-0 table #15: 11227 bytes OK
+2024/10/24-20:37:13.157 3110 Delete type=0 #12
+2024/10/24-20:37:13.169 3110 Compacting 4@0 + 1@1 files
+2024/10/24-20:37:13.291 3110 Generated table #16@0: 3 keys, 621 bytes
+2024/10/24-20:37:13.291 3110 Compacted 4@0 + 1@1 files => 621 bytes
+2024/10/24-20:37:13.342 3110 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/24-20:37:13.343 3110 Delete type=2 #11
+2024/10/24-20:37:13.343 3110 Delete type=2 #7
+2024/10/24-20:37:13.343 3110 Delete type=2 #15
+2024/10/24-20:37:13.343 3110 Delete type=2 #9
+2024/10/24-20:37:13.343 3110 Delete type=2 #13

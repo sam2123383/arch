@@ -1,0 +1,45 @@
+2024/10/25-09:09:09.339 167e5 Reusing MANIFEST /home/himanshu/.config/superProductivity/Local Storage/leveldb/MANIFEST-000001
+2024/10/25-09:09:09.528 167e5 Recovering log #14
+2024/10/25-09:09:09.528 167e5 Reusing old log /home/himanshu/.config/superProductivity/Local Storage/leveldb/000014.log 
+2024/10/25-09:53:12.482 167e6 Level-0 table #19: started
+2024/10/25-09:53:12.521 167e6 Level-0 table #19: 11762 bytes OK
+2024/10/25-09:53:12.573 167e6 Delete type=0 #14
+2024/10/25-10:46:35.263 167e5 Level-0 table #21: started
+2024/10/25-10:46:35.307 167e5 Level-0 table #21: 11031 bytes OK
+2024/10/25-10:46:35.841 167e5 Delete type=0 #18
+2024/10/25-11:23:12.929 167e6 Level-0 table #23: started
+2024/10/25-11:23:13.002 167e6 Level-0 table #23: 11041 bytes OK
+2024/10/25-11:23:13.053 167e6 Delete type=0 #20
+2024/10/25-16:04:27.788 167e6 Level-0 table #25: started
+2024/10/25-16:04:27.902 167e6 Level-0 table #25: 10879 bytes OK
+2024/10/25-16:04:27.976 167e6 Delete type=0 #22
+2024/10/25-16:04:27.977 167e6 Compacting 4@0 + 1@1 files
+2024/10/25-16:04:28.044 167e6 Generated table #26@0: 4 keys, 517 bytes
+2024/10/25-16:04:28.044 167e6 Compacted 4@0 + 1@1 files => 517 bytes
+2024/10/25-16:04:28.095 167e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/25-16:04:28.095 167e6 Delete type=2 #23
+2024/10/25-16:04:28.095 167e6 Delete type=2 #25
+2024/10/25-16:04:28.095 167e6 Delete type=2 #16
+2024/10/25-16:04:28.096 167e6 Delete type=2 #21
+2024/10/25-16:04:28.096 167e6 Delete type=2 #19
+2024/10/25-16:53:10.695 167e6 Level-0 table #28: started
+2024/10/25-16:53:10.801 167e6 Level-0 table #28: 10766 bytes OK
+2024/10/25-16:53:10.854 167e6 Delete type=0 #24
+2024/10/25-17:37:28.362 167e6 Level-0 table #30: started
+2024/10/25-17:37:28.478 167e6 Level-0 table #30: 10755 bytes OK
+2024/10/25-17:37:28.529 167e6 Delete type=0 #27
+2024/10/25-18:56:57.695 167e6 Level-0 table #32: started
+2024/10/25-18:56:57.809 167e6 Level-0 table #32: 10463 bytes OK
+2024/10/25-18:56:57.861 167e6 Delete type=0 #29
+2024/10/25-19:09:28.362 167e6 Level-0 table #34: started
+2024/10/25-19:09:28.402 167e6 Level-0 table #34: 10193 bytes OK
+2024/10/25-19:09:28.453 167e6 Delete type=0 #31
+2024/10/25-19:09:28.453 167e6 Compacting 4@0 + 1@1 files
+2024/10/25-19:09:28.487 167e6 Generated table #35@0: 4 keys, 548 bytes
+2024/10/25-19:09:28.487 167e6 Compacted 4@0 + 1@1 files => 548 bytes
+2024/10/25-19:09:28.540 167e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/25-19:09:28.540 167e6 Delete type=2 #28
+2024/10/25-19:09:28.541 167e6 Delete type=2 #34
+2024/10/25-19:09:28.541 167e6 Delete type=2 #32
+2024/10/25-19:09:28.541 167e6 Delete type=2 #26
+2024/10/25-19:09:28.541 167e6 Delete type=2 #30
