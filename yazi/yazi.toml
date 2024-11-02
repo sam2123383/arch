@@ -6,6 +6,9 @@ show_symlink   = true
 scrolloff      = 5
 
 [opener]
+imv = [
+    { run = 'imv "$@"', orphan = true, for = "unix" },
+]
 edit = [
     { run = 'nvim "$@"', block = true, for = "unix" },
 ]
@@ -18,6 +21,9 @@ zathura = [
 
 [open]
 prepend_rules = [
+    { name = "*.png", use = "imv" },
+    { name = "*.jpg", use = "imv" },
+    { name = "*.gif", use = "play" },
     { name = "*.cbz", use = "zathura" },
     { name = "*.pdf", use = "zathura" },
     { name = "*.epub", use = "zathura" },
